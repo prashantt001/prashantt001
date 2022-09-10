@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantt001" alt="prashantt001" /></a> </p>
 
-- 🔭 I’m currently working on **Microelectronics and VLSI Designs**
+- 🔭 I’m currently working on **Microelectronics and VLSI Design**
 
-- 🌱 I’m currently learning **Electronics Design Automation, Embedded Systems**
+- 🌱 I’m currently learning **Electronics Design Automation and Embedded Systems**
 
-- 📫 How to reach me **tiwariprashant250@gmail.com**
+- 📫 Reach me **tiwariprashant250@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EaxVDOsnPN4_1DgWY7EMykNNAAIFOIFy/view?usp=drivesdk](https://drive.google.com/file/d/1EaxVDOsnPN4_1DgWY7EMykNNAAIFOIFy/view?usp=drivesdk)
 
