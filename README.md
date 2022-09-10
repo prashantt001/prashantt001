@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantt001" alt="prashantt001" /></a> </p>
 
-- 🔭 I’m currently working on **Microelectronics and VLSI Design**
+- 🔭 I’m currently working on **Electronics Design Automation and Embedded Systems**
 
-- 🌱 I’m currently learning **Electronics Design Automation and Embedded Systems**
+- 🌱 I’m currently learning **Microelectronics Technology and VLSI Design**
 
 - 📫 Reach me **tiwariprashant250@gmail.com**
 
